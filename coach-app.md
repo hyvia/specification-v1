@@ -115,14 +115,14 @@ The coach dashboard is a web application for monitoring player and team performa
 | Task | Estimated Effort |
 |------|----------------|
 | Authentication integration | 1 week |
-| Advanced analytics dashboard | 3–4 weeks |
-| Player & training/match analytics | 2–3 weeks |
+| Advanced analytics dashboard | 1–2 weeks |
+| Player & training/match analytics | 1–2 weeks |
 | Team analytics + SDK integration | 2–3 weeks |
 | Training & match management | 1–2 weeks |
 | Settings page | 1 week |
-| Testing & deployment | 1–2 weeks |
+| Testing & deployment | 1 week |
 
-**Total:** ~10–14 weeks (experienced React developer)
+**Total:** ~8–12 weeks
 
 ---
 
