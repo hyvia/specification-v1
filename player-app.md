@@ -136,9 +136,9 @@ The player mobile application is designed to capture, upload, and display player
 | Dashboard implementation | 1 weeks |
 | Profile & settings implementation | 1 week |
 | Notifications & alert system | 1 week |
-| Testing & deployment | 1–2 weeks |
+| Testing & deployment | 1 week |
 
-**Total:** ~6–10 weeks (assuming experienced Flutter developer)
+**Total:** ~8–10 weeks (assuming experienced Flutter developer)
 
 > Notes: Includes time for SDK integration, offline support, and ensuring battery-friendly operations. SDK integration will is already being investigated.
 
