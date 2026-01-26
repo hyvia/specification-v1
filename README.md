@@ -50,7 +50,7 @@ This roadmap describes the phases for building the wearable platform, including 
   * [Player Mobile App Specification](./player-app.md)
   * [Coach Dashboard Specification](./coach-app.md)
 
-**Estimated Duration (Software Developer):** 20–24 weeks (solo developer handling all software)
+**Estimated Duration (Software Developer):** 22–26 weeks (solo developer handling all software)
 
 ---
 
@@ -72,7 +72,7 @@ This roadmap describes the phases for building the wearable platform, including 
 
 ## Overall Estimation for Software Development (Solo Developer)
 
-* **Phase 3:** 24–26 weeks
+* **Phase 3:** 22–26 weeks
 
 **Total:** ~6-7 months for solo development
 
