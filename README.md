@@ -72,8 +72,8 @@ This roadmap describes the phases for building the wearable platform, including 
 
 ## Overall Estimation for Software Development (Solo Developer)
 
-* **Phase 3:** 20–24 weeks
+* **Phase 3:** 24–26 weeks
 
-**Total:** ~5–6 months for solo development
+**Total:** ~6-7 months for solo development
 
 > Notes: Total project duration including all phases and team activities may extend up to 6–8 months. Phase 1 and 2 involve team members from medical and data analytics, Phase 3 is primarily software development work & Phase 4 involves team members and eary customers.
