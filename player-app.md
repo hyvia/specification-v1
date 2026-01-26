@@ -131,14 +131,13 @@ The player mobile application is designed to capture, upload, and display player
 | Task | Estimated Effort |
 |------|----------------|
 | Cognito authentication integration | 1 week |
-| Wearable SDK integration | 2–3 weeks |
-| Data upload & API communication | 1–2 weeks |
-| Dashboard implementation | 1 weeks |
+| Wearable SDK integration | 1–2 weeks |
+| Dashboard, data upload & API implementation | 1 week |
 | Profile & settings implementation | 1 week |
 | Notifications & alert system | 1 week |
 | Testing & deployment | 1 week |
 
-**Total:** ~8–10 weeks
+**Total:** ~6–7 weeks
 
 > Notes: Includes time for SDK integration, offline support, and ensuring battery-friendly operations. SDK integration will is already being investigated.
 
