@@ -161,7 +161,7 @@ The backend system supports ingestion, storage, processing, and delivery of biom
 | AI prediction layer | 3–4 weeks |
 | Testing & deployment | 2–3 weeks |
 
-**Total:** ~15–20 weeks
+**Total:** ~15–22 weeks
 
 > Notes: Includes learning curve for AWS Cognito/AppSync and AI implementation.
 
