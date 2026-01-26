@@ -15,8 +15,6 @@ This roadmap describes the phases for building the wearable platform, including 
 * Determine player categorization metrics.
 * Document specifications for backend, player app, and coach dashboard.
 
-**Dependencies:** None
-
 **Estimated Duration:** 1–2 months (team effort)
 
 ---
@@ -31,8 +29,6 @@ This roadmap describes the phases for building the wearable platform, including 
 * Test coach team device SDK integration.
 * Validate real device data (wearables, lactate, cortisol patches).
 * Ensure communication with backend APIs.
-
-**Dependencies:** Phase 1
 
 **Estimated Duration:** 1 week (can extend to 2–3 weeks for thorough validation)
 
@@ -54,8 +50,6 @@ This roadmap describes the phases for building the wearable platform, including 
   * [Player Mobile App Specification](./player-app.md)
   * [Coach Dashboard Specification](./coach-app.md)
 
-**Dependencies:** Phase 2
-
 **Estimated Duration (Software Developer):** 20–24 weeks (solo developer handling all software)
 
 ---
@@ -71,8 +65,6 @@ This roadmap describes the phases for building the wearable platform, including 
 * UI/UX testing for player app and coach dashboard.
 * Iterative bug fixing and adjustments.
 * Conduct stress testing for multiple players.
-
-**Dependencies:** Phase 3
 
 **Estimated Duration:** 1 month
 
